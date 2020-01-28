@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.HashMap;
-
+import java.util.Scanner;
 /**
  * For this mini-assignment, the goal is to git you guys more familiar with Git.
  * You'll need to finish each of the methods. We made certain to make each method
@@ -58,7 +58,10 @@ public class DecryptorSkeleton {
      * @param toDecrypt - The array to be decoded.
      */
     public static void convertBinaryArrayToDecimalArray(int[] toDecrypt) {
-        // TODO
+        for(i = 0; i < toDecrypt; ++i) {
+        	integer.parseInt(toDecrypt.2);
+        }
+        
     }
 
 
